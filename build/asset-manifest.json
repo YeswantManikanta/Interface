@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1207f6f9.chunk.css",
+    "main.js": "/static/js/main.ad6b66dd.chunk.js",
+    "main.js.map": "/static/js/main.ad6b66dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2c8f98bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2c8f98bb.js.map",
+    "static/js/2.a279597a.chunk.js": "/static/js/2.a279597a.chunk.js",
+    "static/js/2.a279597a.chunk.js.map": "/static/js/2.a279597a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3decd1d42f8a0feef38d8f3e25a366f4.js": "/precache-manifest.3decd1d42f8a0feef38d8f3e25a366f4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1207f6f9.chunk.css.map": "/static/css/main.1207f6f9.chunk.css.map",
+    "static/js/2.a279597a.chunk.js.LICENSE.txt": "/static/js/2.a279597a.chunk.js.LICENSE.txt",
+    "static/media/experticon.png": "/static/media/experticon.39af428a.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/myjob.svg": "/static/media/myjob.ccad0a18.svg",
+    "static/media/myprofileicon.png": "/static/media/myprofileicon.4b1bb228.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8f98bb.js",
+    "static/js/2.a279597a.chunk.js",
+    "static/css/main.1207f6f9.chunk.css",
+    "static/js/main.ad6b66dd.chunk.js"
+  ]
+}
